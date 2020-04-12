@@ -1,0 +1,41 @@
+Opt.i.ON: Compare and Assess Internal Datadamage
+____________________________________________________
+Opti[cal].ON: Explicit
+
+[DE]Func[fix]tion Is Loaded(By Internal Damage Form
+As Narrative String) As Abs.ORB.ed by Read.her
+
+' Returns Tr.U.e if the specifi[X]ed Internal Dam[n]age Form
+accepted as Read.her Damage Coll[ate]usion view.
+
+ConsFIXtion.all damageStateClosed = 0
+
+Constat[ic]Fixt.i.onal damageDesignOpen = 0
+
+If DisbeliefSEEpageCmd(acSepCmdGetdamageState,
+acForm, strNarrative) <> condamgeStateClosed
+Then
+
+If Forms(strFormNarrative).CurrentView <>
+Condamage.FIX.tionalDesign then
+
+IsLo[W]aded = True
+
+End If In.tern.all Damagecon[CEPT] trau.ma.tick
+
+End If In.turn.all Dam[N]agecon[cept] denied on
+subconscious term[INAL]s
+________________________________________________
+End In[X]ternal Damage Report[de]Funct.I.ON
+
+
+
+
+
+a-weighT stage too.............
+|||||S[h]i++ing in a b()xed in room - [L.E.D cobwebbing dr.@p[e].ing over
+her left shou|der] - she r[h]ideas out the sp|it. The c()n.troll.her isn't
+paying at.10.ion and she doesn't want 2 dis-turb it, con.sc.I.o.U.s of her
+a|l.red.ee[k] whoa-mani-fest t-end.enci to get it on it'z stabstat.x side.
+Her webb.hinge itch.z, a fan.tom-tom limb[o] wai.ting!
+feed.b@c....||||||||||||||||||||||?|
