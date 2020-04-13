@@ -1,5 +1,7 @@
 # Code Poetry
 
+![mez breeze](https://d1v7jayx2s9clc.cloudfront.net/user/pages/08.mez-breeze/Screen%20Shot%202016-12-15%20at%2012.54.52%20PM.png)
+
 before forking this repo, make sure that u've read the [open source](https://nbriz.github.io/intermediate-netart/notes/open-source/index.html) notes i put together on our class website. also, try && watch as many of the videos in the [playlist](https://www.youtube.com/playlist?list=PLoQrXDiSBWYEHKuauUz1OT4-j7NZMkI6v) i curated as well.
 
 then [take a look at the video tutorials i made on git + github](https://www.youtube.com/playlist?list=PLoQrXDiSBWYGFfbXdY55DfpyZyZavjSAz), there i discuss some new media theory related to versioning + also share some early text based net culture + i also demonstrate different ways to use git (on GitHub, in Atom && in the terminal).
