@@ -2,7 +2,7 @@
 
 before forking this repo, make sure that u've read the [open source](https://nbriz.github.io/intermediate-netart/notes/open-source/index.html) notes i put together on our class website. also, try && watch as many of the videos in the [playlist](https://www.youtube.com/playlist?list=PLoQrXDiSBWYEHKuauUz1OT4-j7NZMkI6v) i curated as well.
 
-then take a look at the video tutorials i made on git + github, there i discuss some new media theory related to versioning + also share some early text based net culture + i also demonstrate different ways to use git (on GitHub, in Atom && in the terminal).
+then atake a look at the video tutorials i made on git + github](https://www.youtube.com/playlist?list=PLoQrXDiSBWYGFfbXdY55DfpyZyZavjSAz), there i discuss some new media theory related to versioning + also share some early text based net culture + i also demonstrate different ways to use git (on GitHub, in Atom && in the terminal).
 
 once u've done that go ahead && fork this repo && create ur own piece of "code poetry" (at least one file which u add to ur fork of this repo). as i mention in the last of the git/github video tutorials, there are two goals w/this assignment:
 
